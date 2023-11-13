@@ -1,16 +1,5 @@
 # imrich
+My first ever flutter project that does nothing but displaying a dimond image
 
-A new Flutter project.
+![](https://firebasestorage.googleapis.com/v0/b/pager-3c967.appspot.com/o/githubProjects%2FIm_Rich.png?alt=media&token=0db0a93a-2f4e-4c33-b86f-fe278e444812)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
